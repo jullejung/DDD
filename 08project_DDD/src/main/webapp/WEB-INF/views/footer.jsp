@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<div class=container> </div>
+	<div class=container> <table> </table></div>
 </body>
 </html>
